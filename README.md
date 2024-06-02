@@ -6,6 +6,8 @@ Each ticket has a unique id, each ticket's authenticity can be checked using thi
 This application contains basic functionality and has a lot of room to add more features and customaization.
 
 Ticket generated
+
+
 ![image](https://github.com/imkprakash/bus-ticket-generator/assets/76038244/6d4728d5-fc60-44dd-8c08-e63aeef9918f)
 
 
@@ -13,6 +15,8 @@ Ticket generated
 
 
 Ticket searched and found
+
+
 ![image](https://github.com/imkprakash/bus-ticket-generator/assets/76038244/eed0fb74-64ef-4e9a-bba3-d7743a8604b6)
 
 
@@ -20,5 +24,7 @@ Ticket searched and found
 
 
 Ticket searched and not found
+
+
 ![image](https://github.com/imkprakash/bus-ticket-generator/assets/76038244/119c943d-fff1-4e5c-a251-fbaf5aaffa12)
 
